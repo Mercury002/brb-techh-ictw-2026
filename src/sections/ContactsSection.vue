@@ -1,8 +1,10 @@
+<!-- @format -->
+
 <script setup lang="ts">
-import AppIcon from '../components/AppIcon.vue'
-import FigmaArt from '../components/FigmaArt.vue'
-import FigmaImg from '../components/FigmaImg.vue'
-import { t } from '../i18n'
+import AppIcon from "../components/AppIcon.vue";
+import FigmaArt from "../components/FigmaArt.vue";
+import FigmaImg from "../components/FigmaImg.vue";
+import { t } from "../i18n";
 </script>
 
 <template>
@@ -27,7 +29,7 @@ import { t } from '../i18n'
       </div>
     </address>
 
-    <a class="contacts-qr" href="https://brb-tech.uz" target="_blank" rel="noopener">
+    <a class="contacts-qr" href="https://brb-tech.uz/products" target="_blank" rel="noopener">
       <span class="contacts-qr-frame">
         <AppIcon name="qr-frame" class="contacts-qr-border" />
         <FigmaImg name="qr" class="contacts-qr-code" alt="QR" />
