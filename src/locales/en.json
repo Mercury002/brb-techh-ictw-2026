@@ -1,0 +1,467 @@
+{
+  "cover": {
+    "profile": "COMPANY PROFILE",
+    "year": "2026"
+  },
+  "about": {
+    "title": "Together, we create the digital",
+    "titleAccent": "future",
+    "paragraphs": [
+      "BRB-TECH develops technological solutions for financial institutions, banks, government organizations, and businesses that simplify processes, improve efficiency, and create new opportunities.",
+      "BRB-TECH is a team of professionals united by a common goal: to make technology accessible, efficient, and results-driven for everyone. We take responsibility for the entire cycle — from research and design to implementation and ongoing support.",
+      "We create technologies that become part of everyday life — simplifying processes, unlocking new opportunities, and helping organizations move forward. Our approach combines technological expertise, a people-centered focus, and a commitment to measurable results."
+    ],
+    "resultsTitle": "Our results in numbers",
+    "stats": [
+      {
+        "value": "30+",
+        "label": "Implemented projects"
+      },
+      {
+        "value": "74",
+        "label": "Team specialists"
+      },
+      {
+        "value": "1М+",
+        "label": "Users of our products"
+      }
+    ],
+    "valuesTitle": "Our values",
+    "values": [
+      "Innovation",
+      "Reliability",
+      "Flexibility"
+    ]
+  },
+  "services": {
+    "title": "Our services",
+    "titleAccent": "",
+    "subtitle": "Comprehensive IT solutions ranging from concept to design, development, integration, and support.",
+    "cards": {
+      "design": {
+        "title": "Design and strategy",
+        "text": "We design digital products and define strategies for their development.",
+        "items": [
+          {
+            "title": "Design",
+            "text": "UX/UI and product design"
+          },
+          {
+            "title": "Consulting",
+            "text": "IT Consulting and Strategy"
+          }
+        ]
+      },
+      "product": {
+        "title": "Product development",
+        "text": "We create modern digital products for businesses and users.",
+        "items": [
+          {
+            "title": "Mobile programming",
+            "text": "iOS va Android"
+          },
+          {
+            "title": "Web Development",
+            "text": "Websites and marketplaces"
+          }
+        ]
+      },
+      "quality": {
+        "title": "Quality and Support",
+        "text": "We ensure product stability and provide teams aligned with business objectives.",
+        "items": [
+          {
+            "title": "Testing",
+            "text": "Mobile and web applications"
+          },
+          {
+            "title": "IT-autsorsing",
+            "text": "Providing teams on an outsourcing and outstaffing basis"
+          }
+        ]
+      },
+      "digital": {
+        "title": "Digital solutions",
+        "text": "We create specialized solutions for the financial and corporate sectors.",
+        "items": [
+          {
+            "title": "FinTech",
+            "text": "Banking and fintech solutions"
+          },
+          {
+            "title": "CRM / ERP",
+            "text": "Business process automation"
+          }
+        ]
+      },
+      "engineering": {
+        "title": "Engineering and Integration",
+        "text": "We develop technological infrastructure and integrate systems into a unified ecosystem.",
+        "items": [
+          {
+            "title": "Engineering",
+            "text": "Software product development"
+          },
+          {
+            "title": "Integration",
+            "text": "Integrating systems and services"
+          }
+        ]
+      }
+    }
+  },
+  "directions": {
+    "title": "Our areas of focus and expertise",
+    "titleAccent": "",
+    "fintech": {
+      "title": "FinTech",
+      "text": "Digital financial solutions",
+      "apps": [
+        "Biznes 24/7",
+        "Credit Monitoring",
+        "Super App",
+        "Smile Payment"
+      ]
+    },
+    "ai": {
+      "title": "AI",
+      "text": "AI Solutions for Business",
+      "apps": [
+        "AI-Lab",
+        "FinDiagnostika",
+        "AI Call",
+        "Voice-based payment"
+      ]
+    },
+    "social": {
+      "title": "Social projects",
+      "text": "Digital solutions for the public sector",
+      "apps": [
+        "Mening Tomorqam",
+        "Mening Buyurtmam",
+        "Mening Biznesim"
+      ]
+    },
+    "bank": {
+      "title": "Bank management and control systems",
+      "text": "Credit and risk management solutions",
+      "items": [
+        {
+          "title": "Clients",
+          "text": "Customer base management"
+        },
+        {
+          "title": "Segmentation",
+          "text": "Audience segmentation"
+        },
+        {
+          "title": "Sales",
+          "text": "Sales monitoring"
+        },
+        {
+          "title": "Credit risks",
+          "text": "Risk assessment"
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "text": "Developing knowledge and digital skills",
+      "academy": "BRB-TECH Academy",
+      "academyText": "Developing knowledge and digital skills",
+      "tags": [
+        "Online education",
+        "Operations",
+        "Certificates"
+      ]
+    },
+    "outsourcing": {
+      "title": "Outsourcing and Outstaffing",
+      "text": "Professional IT teams",
+      "apps": [
+        "Development",
+        "Audit",
+        "Consulting"
+      ]
+    },
+    "b2b": {
+      "title": "B2B projects",
+      "text": "Business Automation and Management",
+      "apps": [
+        "CRM",
+        "HRM",
+        "EDO"
+      ]
+    }
+  },
+  "fintech": {
+    "number": "01",
+    "title": "FinTech",
+    "subtitle": "Bank-grade FinTech – From idea to millions of users",
+    "paragraphs": [
+      "BRB-TECH develops digital banking products across the entire lifecycle: from remote identification and online account opening to payment infrastructure, credit and deposit products, acquiring, and mini-app ecosystems. We are a team of bankers ourselves—so for us, it is not theory, but daily practice."
+    ],
+    "features": [
+      {
+        "title": "Remote Banking (DBO)",
+        "text": "Mobile app and web platform for individuals and legal entities"
+      },
+      {
+        "title": "Payment infrastructure",
+        "text": "P2P, A2A, domestic and international payments, utility payments, acquiring"
+      },
+      {
+        "title": "Onlayn kredit va depozit",
+        "text": "Online loans and deposits"
+      },
+      {
+        "title": "Integrations",
+        "text": "Core banking, protesting, Munis, international money transfer systems, government services"
+      },
+      {
+        "title": "SuperApp and ecosystem",
+        "text": "Integrating partner services into a single app; mini-app platform."
+      },
+      {
+        "title": "Biometric payments",
+        "text": "Payment via face and palm (Smile / Palm, Payment)"
+      }
+    ],
+    "audienceTitle": "For whom",
+    "audience": [
+      "Banks",
+      "Microfinance organizations",
+      "Payment organizations",
+      "Fintech startups"
+    ],
+    "featuresTitle": "Our expertise"
+  },
+  "education": {
+    "number": "02",
+    "title": "Education",
+    "subtitle": "We teach the expertise we ourselves have implemented.",
+    "paragraphs": [
+      "BRB-TECH Academy is our company’s educational division. What sets us apart is simple: our instructors are the company’s own engineers and product managers, and the course material consists of real-world tasks drawn from live projects. Students don’t study abstract examples; instead, they learn how actual banking systems are built.",
+      "We tailor corporate programs to the specific needs of banks, companies, and government organizations, while also training professionals looking to enter the fields of IT and AI through open courses."
+    ],
+    "features": [
+      {
+        "title": "Corporate training",
+        "text": "A program tailored to the team's task"
+      },
+      {
+        "title": "Open courses",
+        "text": "AI, data analytics product management"
+      },
+      {
+        "title": "Online platform",
+        "text": "Course catalog, Personal account"
+      },
+      {
+        "title": "Certificate",
+        "text": "Official confirmation of acquired skills"
+      },
+      {
+        "title": "Internship",
+        "text": "Experience with real-world projects"
+      }
+    ],
+    "audienceTitle": "For whom",
+    "audience": [
+      "HR va L&D departments",
+      "Banks",
+      "State organizations",
+      "Professionals looking to transition into the fields of IT and AI"
+    ]
+  },
+  "ai": {
+    "number": "03",
+    "title": "Artificial intelligences",
+    "subtitle": "Artificial intelligence — in your data, within your perimeter.",
+    "paragraphs": [
+      "BRB-TECH AI-Lab is integrating artificial intelligence into banking products, including voice agents, financial diagnostics, voice-based payments, and conversation analysis. All solutions operate on-premise—using our own GPU infrastructure and local models—ensuring that customer data never leaves the internal environment for external clouds.",
+      "Our core strength is the Uzbek language. We possess proprietary speech recognition (STT) and synthesis (TTS) models, language models supporting both Uzbek and Russian, and a RAG architecture proven in banking applications. We are now deploying this infrastructure for other organizations as well."
+    ],
+    "features": [
+      {
+        "title": "Voice AI operators",
+        "text": "Incoming and outgoing calls, in Uzbek and Russian"
+      },
+      {
+        "title": "AI assistants and chatbots",
+        "text": "Response based on internal documents, with source citation (RAG)"
+      },
+      {
+        "title": "Predictive analytics",
+        "text": "Cash flow forecasting, scoring, and anomalies"
+      },
+      {
+        "title": "Speech analytics",
+        "text": "Automated evaluation and analysis of call center conversations"
+      },
+      {
+        "title": "Computer vision and biometrics",
+        "text": "Face, palm, documents"
+      },
+      {
+        "title": "On-premises deployment",
+        "text": "Local LLM, GPU infrastructure, data stays within the perimeter."
+      }
+    ],
+    "audienceTitle": "For whom",
+    "audience": [
+      "Banking and financial institutions",
+      "Public sectors",
+      "Call centers",
+      "Companies handling classified information"
+    ]
+  },
+  "outsourcing": {
+    "number": "04",
+    "title": "Outsourcing / Outstaffing",
+    "subtitle": "Your team — our specialists",
+    "paragraphs": [
+      "Our team of 74 specialists—spanning design, product, analytics, backend, frontend, mobile, QA, DevOps, and Data & AI—has built banking systems serving millions of users. We bring this experience to your project, whether through an individual specialist, a dedicated team, or a turnkey solution.",
+      "In addition, we provide IT audit and consulting services: we assess architecture and security, develop a digitalization roadmap, and assist with technology selection and the preparation of technical specifications."
+    ],
+    "features": [
+      {
+        "title": "Outstaffing",
+        "text": "A specialist joins your team and works under your management."
+      },
+      {
+        "title": "Segregated community",
+        "text": "Dedicated team led by a team lead"
+      },
+      {
+        "title": "Project outsourcing",
+        "text": "The project is handed over on a turnkey basis; we take responsibility for the timeline and the results."
+      },
+      {
+        "title": "Technical audit",
+        "text": "Architecture, code, security, infrastructure"
+      },
+      {
+        "title": "Consulting",
+        "text": "Strategy, roadmap, technology selection, contractor evaluation"
+      }
+    ],
+    "audienceTitle": "For whom",
+    "audience": [
+      "Banks and financial institutions",
+      "Corporate sector",
+      "State organizations",
+      "IT companies with peak workloads"
+    ]
+  },
+  "b2b": {
+    "number": "05",
+    "title": "B2B Ecosystem",
+    "subtitle": "Digital ecosystem for company management",
+    "paragraphs": [
+      "In many companies, customer data resides in one system, employee data in another, tasks are handled via messaging apps, and documents are exchanged via email. We consolidate all of this into a single ecosystem—comprising CRM, HRM, task management, and electronic document workflows—featuring a shared database, unified login, and role-based access.",
+      "The modules operate both independently and together: you can start with one and add the others without migrating data. We deploy them on-premise or in the cloud and customize them to fit the client's processes."
+    ],
+    "features": [
+      {
+        "title": "General information",
+        "text": "Unified database of employees, clients, and documents"
+      },
+      {
+        "title": "SSO and Security",
+        "text": "SSO, role dostup, audit log"
+      },
+      {
+        "title": "Integrations",
+        "text": "1C, banking systems, digital signatures, email and messengers"
+      },
+      {
+        "title": "Customization",
+        "text": "Adaptation to client processes, reports, and dashboards"
+      },
+      {
+        "title": "Rapid implementation",
+        "text": "On-premise or cloud—in weeks, not months."
+      }
+    ],
+    "audienceTitle": "For whom",
+    "audience": [
+      "Medium and large businesses",
+      "Banks and subsidiaries",
+      "State organizations"
+    ]
+  },
+  "bank": {
+    "number": "06",
+    "title": "Bank management and control systems",
+    "subtitle": "Systems that manage the bank from within",
+    "paragraphs": [
+      "The customer-facing application is merely the tip of the iceberg. Beneath it lie the internal systems that manage the customer base, sales processes, segmentation, and credit risks. BRB-TECH has built this layer for the bank and continues to support its daily operations: managers work with a unified customer profile, management makes decisions based on real-time data, and the credit portfolio is monitored automatically.",
+      "We implement these systems for other banks and financial institutions by integrating them with their core banking systems and data warehouses."
+    ],
+    "features": [
+      {
+        "title": "Working with corporate clients (CRM)",
+        "text": "Unified customer card, sales and credit applications, customer service speed"
+      },
+      {
+        "title": "Sales tracking",
+        "text": "Monitoring of manager activities, KPIs, and client meetings"
+      },
+      {
+        "title": "Customer segmentation",
+        "text": "Automatic grouping based on behavioral and financial indicators, targeted offers."
+      },
+      {
+        "title": "Credit risk management",
+        "text": "Portfolio monitoring, early warning signals, risk scoring"
+      },
+      {
+        "title": "Management Analytics",
+        "text": "Real-time reports and dashboards for management"
+      }
+    ],
+    "audienceTitle": "For whom",
+    "audience": [
+      "Banks",
+      "Microfinance organizations",
+      "Leasing and insurance companies"
+    ]
+  },
+  "partners": {
+    "title": "Partners",
+    "lead": "Strong partnership — reliable technologies.",
+    "text": "By combining the experience and trust of our partners, we create digital solutions that work today and shape a successful future for tomorrow.",
+    "local": "Local",
+    "international": "International",
+    "certsTitle": "Certificates",
+    "certsText": "We adhere to international quality and information security standards. This confirms our professionalism and the trust of our clients.",
+    "certs": [
+      {
+        "title": "ISO 9001",
+        "text": "Quality management system"
+      },
+      {
+        "title": "ISO 27001",
+        "text": "Information Security Management System"
+      },
+      {
+        "title": "IAF",
+        "text": "International recognition of certification systems"
+      },
+      {
+        "title": "O’ZAKK",
+        "text": "The National Accreditation System of the Republic of Uzbekistan"
+      }
+    ]
+  },
+  "contacts": {
+    "addressLabel": "Address",
+    "address": "178A, Muqumi Street,\nTashkent, Uzbekistan",
+    "emailLabel": "Email",
+    "email": "main@brb-tech.uz",
+    "phoneLabel": "Contact us",
+    "phone": "+998 (55) 513-55-05",
+    "website": "Website"
+  }
+}

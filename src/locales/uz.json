@@ -1,0 +1,467 @@
+{
+  "cover": {
+    "profile": "KOMPANIYA PROFILI",
+    "year": "2026"
+  },
+  "about": {
+    "title": "Birgalikda raqamli kelajakni",
+    "titleAccent": "yaratamiz",
+    "paragraphs": [
+      "BRB-TECH moliyaviy tashkilotlar, banklar, davlat va biznes uchun jarayonlarni soddalashtiradigan, samaradorlikni oshiradigan va yangi imkoniyatlar yaratadigan texnologik yechimlarni ishlab chiqadi.",
+      "BRB-TECH — umumiy maqsadi atrofida birlashgan professionallar jamoasi: texnologiyalarni hamma uchun qulay, samarali va natijaga yo‘naltirilgan qilish. Biz tadqiqot va dizayndan tortib, ishga tushirish va qo‘llab-quvvatlashgacha bo‘lgan to‘liq siklni o‘z zimmamizga olamiz.",
+      "Biz real hayotning bir qismiga aylanadigan texnologiyalarni yaratamiz — jarayonlarni soddalashtiradi, yangi imkoniyatlarni ochadi va tashkilotlarning oldinga siljishiga yordam beradi. Bizning yondashuvimiz texnologik ekspertiza, insonlarga e’tibor va o‘lchanadigan natijaga yo‘naltirilganlikni uyg‘unlashtiradi."
+    ],
+    "resultsTitle": "Natijalarimiz raqamlarda",
+    "stats": [
+      {
+        "value": "30+",
+        "label": "Amalga oshirilgan loyihalar"
+      },
+      {
+        "value": "74",
+        "label": "Jamoadagi mutaxassislar"
+      },
+      {
+        "value": "1М+",
+        "label": "Mahsulotlarimiz foydalanuvchilari"
+      }
+    ],
+    "valuesTitle": "Bizning qadriyatlarimiz",
+    "values": [
+      "Innovatsiya",
+      "Ishonchlilik",
+      "Moslashuvchanlik"
+    ]
+  },
+  "services": {
+    "title": "Bizning",
+    "titleAccent": "xizmatlarimiz",
+    "subtitle": "G‘oyadan tortib dizayn, ishlab chiqish, integratsiya va qo‘llab-quvvatlashgacha bo‘lgan kompleks IT yechimlar",
+    "cards": {
+      "design": {
+        "title": "Dizayn va strategiya",
+        "text": "Raqamli mahsulotlarni loyihalashtiramiz va ularni rivojlantirish strategiyasini belgilaymiz.",
+        "items": [
+          {
+            "title": "Dizayn",
+            "text": "UX/UI va mahsulot dizayni"
+          },
+          {
+            "title": "Konsalting",
+            "text": "IT-konsalting va strategiya"
+          }
+        ]
+      },
+      "product": {
+        "title": "Mahsulotlarni ishlab chiqish",
+        "text": "Biznes va foydalanuvchilar uchun zamonaviy raqamli mahsulotlar yaratamiz.",
+        "items": [
+          {
+            "title": "Mobil dasturlash",
+            "text": "iOS va Android"
+          },
+          {
+            "title": "Veb-ishlab chiqish",
+            "text": "Saytlar va marketplace’lar"
+          }
+        ]
+      },
+      "quality": {
+        "title": "Sifat va qo‘llab-quvvatlash",
+        "text": "Mahsulotlar barqarorligini ta’minlaymiz va biznes vazifalariga mos jamoalarni taqdim etamiz.",
+        "items": [
+          {
+            "title": "Testlash",
+            "text": "Mobil va veb-ilovalar"
+          },
+          {
+            "title": "IT-autsorsing",
+            "text": "Jamoalarni autsorsing va autstaffing asosida taqdim etish"
+          }
+        ]
+      },
+      "digital": {
+        "title": "Raqamli yechimlar",
+        "text": "Moliya va korporativ sektor uchun ixtisoslashtirilgan yechimlar yaratamiz.",
+        "items": [
+          {
+            "title": "FinTech",
+            "text": "Bank va fintech yechimlari"
+          },
+          {
+            "title": "CRM / ERP",
+            "text": "Biznes jarayonlarini avtomatlashtirish"
+          }
+        ]
+      },
+      "engineering": {
+        "title": "Injenering va integratsiyalar",
+        "text": "Texnologik infratuzilmani ishlab chiqamiz va tizimlarni yagona ekotizimga birlashtiramiz.",
+        "items": [
+          {
+            "title": "Injenering",
+            "text": "Dasturiy mahsulotlarni ishlab chiqish"
+          },
+          {
+            "title": "Integratsiya",
+            "text": "Tizim va servislarni birlashtirish"
+          }
+        ]
+      }
+    }
+  },
+  "directions": {
+    "title": "Bizning yo‘nalishlarimiz va",
+    "titleAccent": "ekspertizamiz",
+    "fintech": {
+      "title": "FinTech",
+      "text": "Raqamli moliyaviy yechimlar",
+      "apps": [
+        "Biznes 24/7",
+        "Credit Monitoring",
+        "Super App",
+        "Smile Payment"
+      ]
+    },
+    "ai": {
+      "title": "AI",
+      "text": "Biznes uchun AI-yechimlar",
+      "apps": [
+        "AI-Lab",
+        "FinDiagnostika",
+        "AI Call",
+        "Ovoz orqali to‘lov"
+      ]
+    },
+    "social": {
+      "title": "Ijtimoiy loyihalar",
+      "text": "Davlat sektori uchun raqamli yechimlar",
+      "apps": [
+        "Mening Tomorqam",
+        "Mening Buyurtmam",
+        "Mening Biznesim"
+      ]
+    },
+    "bank": {
+      "title": "Bank boshqaruvi va nazorat tizimlari",
+      "text": "Kreditlar va risklarni boshqarish yechimlari",
+      "items": [
+        {
+          "title": "Mijozlar",
+          "text": "Mijozlar bazasini boshqarish"
+        },
+        {
+          "title": "Segmentatsiya",
+          "text": "Audoriya segmentatsiyasi"
+        },
+        {
+          "title": "Sotuv",
+          "text": "Sotuvlarni nazorat qilish"
+        },
+        {
+          "title": "Kredit risklari",
+          "text": "Risklarni baholash"
+        }
+      ]
+    },
+    "education": {
+      "title": "Ta’lim",
+      "text": "Bilim va raqamli ko‘nikmalarni rivojlantirish",
+      "academy": "BRB-TECH Academy",
+      "academyText": "Bilim va raqamli ko‘nikmalarni rivojlantirish",
+      "tags": [
+        "Onlayn ta’lim",
+        "Amaliyotlar",
+        "Sertifikatlar"
+      ]
+    },
+    "outsourcing": {
+      "title": "Autsorsing va autstaffing",
+      "text": "Professional IT jamoalar",
+      "apps": [
+        "Ishlab chiqish",
+        "Audit",
+        "Konsalting"
+      ]
+    },
+    "b2b": {
+      "title": "B2B loyihalar",
+      "text": "Biznesni avtomatlashtirish va boshqarish",
+      "apps": [
+        "CRM",
+        "HRM",
+        "EDO"
+      ]
+    }
+  },
+  "fintech": {
+    "number": "01",
+    "title": "FinTech",
+    "subtitle": "Bank darajasidagi FinTech - G’oyadan millionlab foydalanuchilargacha",
+    "paragraphs": [
+      "BRB-TECH raqamli bank mahsulotlarini to’liq siklda yaratadi: masofaviy identifikatsiya va onlayn hisob ochishdan to’lov infratuzilmasi, kredit-depozit mahsulotlari, ekvayring va mini-ilovalar ekotizimigacha. Biz banklarning o’z jamoamiz - shuning uchun nazariya emas, kundalik amaliyot"
+    ],
+    "features": [
+      {
+        "title": "Masofaviy banking (DBO)",
+        "text": "Jismoniy va yuridik shaxslar uchun mobil ilova va web-platforma"
+      },
+      {
+        "title": "To’lov infratuzilmasi",
+        "text": "P2P, A2A, milliy va xalqaro to’lovlar, komunal to’lovlar, ekvayring"
+      },
+      {
+        "title": "Onlayn kredit va depozit",
+        "text": "Skoring, avtomatik qaror onlayn rasmiylashtirish"
+      },
+      {
+        "title": "Integratsiyalar",
+        "text": "Core banking, protesting, Munis, xalqaro pul o’tkazma tizimlari, davlat servislari"
+      },
+      {
+        "title": "SuperApp va ekotizim",
+        "text": "Hamkor servislarini bitta ilovada ulash, mini apps platformasi"
+      },
+      {
+        "title": "Biometrik to’lovlar",
+        "text": "Yuz va kaft orqali to’lov (Smile / Palm, Payment)"
+      }
+    ],
+    "audienceTitle": "Kimlar uchun",
+    "audience": [
+      "Banklar",
+      "Mikromoliya tashkilotlari",
+      "To’lov tashkilotlari",
+      "FinTech-startaplar"
+    ],
+    "featuresTitle": "Bizning kompetetsiyamiz"
+  },
+  "education": {
+    "number": "02",
+    "title": "Ta’lim",
+    "subtitle": "O’zimiz joriy qilgan ekspertizani o’rgatamiz",
+    "paragraphs": [
+      "BRB-TECH Academy — kompaniyamiz ning ta’lim yo‘nalishi. Farqimiz oddiy: o‘qituvchilarimiz — kompaniyaning o‘z muhandislari va mahsulot menejerlari, kurs materiali — jonli loyihalardan olingan real vazifalar. Talaba abstrakt misol emas, bankda ishlayotgan tizim qanday qurilganini o‘rganadi.",
+      "Banklar, kompaniyalar va davlat tashkilotlari uchun korporativ dasturlarni buyurtmachi vazifasiga moslab yig‘amiz; ochiq kurslar orqali esa IT va AI sohasiga kirmoqchi bo‘lgan mutaxassislarni tayyorlaymiz."
+    ],
+    "features": [
+      {
+        "title": "Korporativ ta’lim",
+        "text": "Jamoa vazifasiga moslashgan dastur"
+      },
+      {
+        "title": "Ochiq kurslar",
+        "text": "AI, ma’lumotlar tahlili mahsulot boshqaruvi"
+      },
+      {
+        "title": "Onlayn platforma",
+        "text": "Kurslar katalogi, shaxsiy kabinet"
+      },
+      {
+        "title": "Sertifikat",
+        "text": "Egalagan ko’nikmalar rasmiy tasdiqi"
+      },
+      {
+        "title": "Amaliyot",
+        "text": "Real loyihalarda tajriba"
+      }
+    ],
+    "audienceTitle": "Kimlar uchun",
+    "audience": [
+      "HR va L&D bo’limlari",
+      "Banklar",
+      "Davlat tashkilotlari",
+      "IT va AI sohasiga o’tmoqchi bo’lgan mutaxasislar"
+    ]
+  },
+  "ai": {
+    "number": "03",
+    "title": "Suniy intelektlar",
+    "subtitle": "Sun’iy intellekt — sizning ma’lumotlaringizda, sizning konturingizda",
+    "paragraphs": [
+      "BRB-TECH AI-Lab sun’iy intellektni bank mahsulotlariga joriy qilib kelmoqda: ovozli operatorlar, moliyaviy diagnostika, ovoz orqali to‘lov, suhbatlar tahlili. Barcha yechimlar on-premise — o‘z GPU-infratuzilmamizda, lokal modellar bilan ishlaydi, mijoz ma’lumotlari tashqi bulutga chiqmaydi.",
+      "Asosiy kuchimiz — o‘zbek tili. Nutqni tanish (STT) va sintez qilish (TTS) bo‘yicha o‘z modellarimiz, o‘zbek va rus tillarida ishlaydigan til modellari va bank hujjatlarida sinalgan RAG-arxitektura. Shu bazani boshqa tashkilotlar uchun ham ishga tushiramiz."
+    ],
+    "features": [
+      {
+        "title": "Ovozli AI-operatorlar",
+        "text": "Kiruvchi va chiquvchi qo’ng’iroqlar, o’zbek va rus tillarida"
+      },
+      {
+        "title": "AI-assistentlari va chatbotlar",
+        "text": "Ichki hujjatlar asosida javob, manba ko’rsatiladi (RAG)"
+      },
+      {
+        "title": "Prognozli analitika",
+        "text": "Pul oqimi prognozi, skoring va anomaliyalar"
+      },
+      {
+        "title": "Nutq analitikasi",
+        "text": "Call-markaz suhbatlarini avtomatik baholash va tahlil qilish"
+      },
+      {
+        "title": "Kompyuter ko’rishi va biometriya",
+        "text": "Yuz, kaft, hujjatlar"
+      },
+      {
+        "title": "On-premise joylashtirish",
+        "text": "Lokal LLM, GPU-infratuzilma, ma’lumotlar konturda qoladi"
+      }
+    ],
+    "audienceTitle": "Kimlar uchun",
+    "audience": [
+      "Bank va moliya tashkilotlari",
+      "Davlat sektorlari",
+      "Call-markazlar",
+      "Maxfiy ma’lumotli kompaniyalar"
+    ]
+  },
+  "outsourcing": {
+    "number": "04",
+    "title": "Autsorsing / Autstaffing",
+    "subtitle": "Sizning jamoangiz — bizning mutaxassislarimiz",
+    "paragraphs": [
+      "74 mutaxassisdan iborat jamoamiz — dizayn, mahsulot, analitika, backend, frontend, mobile, QA, DevOps, Data & AI — millionlab foydalanuvchiga xizmat qiladigan bank tizimlarini qurgan. Shu tajribani sizning loyihangizga olib kelamiz: bitta mutaxassis, ajratilgan jamoa yoki kalit topshiriladigan vazifa ko‘rinishida.",
+      "Bundan tashqari, IT-audit va konsalting xizmatini ko‘rsatamiz: arxitektura va xavfsizlikni baholaymiz, raqamlashtirish yo‘l xaritasini tuzamiz, texnologiya tanlash va TZ tayyorlashda yordam beramiz."
+    ],
+    "features": [
+      {
+        "title": "Autstaffing",
+        "text": "Mutaxassis jamoangizga kiradi, sizning boshqaruvingizga ishlaydi"
+      },
+      {
+        "title": "Ajratilgan jamoa",
+        "text": "Timlid boshchiligidagi ajratilgan jamoa"
+      },
+      {
+        "title": "Loyiha autsorsingi",
+        "text": "Vazifa kalit topshiriladi, muddat va natija uchun biz javob beramiz"
+      },
+      {
+        "title": "Texnik audit",
+        "text": "Arxitektura, kod, xavfsizlik, infratuzilma"
+      },
+      {
+        "title": "Konsalting",
+        "text": "Stretegiya, yo’l xaritasi, texnologiya tanlash, pudratchilarni baholash"
+      }
+    ],
+    "audienceTitle": "Kimlar uchun",
+    "audience": [
+      "Banklar va moliya tashkilotlari",
+      "Korporativ sektor",
+      "Davlat tashkilotlari",
+      "Pik yuklamali IT-kompaniyalar"
+    ]
+  },
+  "b2b": {
+    "number": "05",
+    "title": "B2B Ecosystem",
+    "subtitle": "Kompaniyani boshqarish uchun raqamli ekotizim",
+    "paragraphs": [
+      "Ko‘pchilik kompaniyada mijozlar bir tizimda, xodimlar ikkinchisida, vazifalar messenjerda, hujjatlar esa pochtada yuradi. Biz buni bitta ekotizimga yig‘amiz: CRM, HRM, vazifalar boshqaruvi va elektron hujjat aylanishi — umumiy ma’lumotlar bazasi, yagona kirish va rolli dostup bilan.",
+      "Modullar alohida ham, birga ham ishlaydi: bittasidan boshlab, qolganlarini ma’lumotlarni ko‘chirmasdan ulash mumkin. On-premise yoki bulutda joylashtiramiz, buyurtmachi jarayonlariga moslab qayta ishlaymiz."
+    ],
+    "features": [
+      {
+        "title": "Umumiy ma’lumotlar",
+        "text": "Xodimlar, mijozlar va hujjatlarni yagona bazasi"
+      },
+      {
+        "title": "Yagona kirish va xavfsizlik",
+        "text": "SSO, rolli dostup, audit jurnali"
+      },
+      {
+        "title": "Integratsiyalar",
+        "text": "1C, bank tizimlari, ERI, pochta va messenjerlar"
+      },
+      {
+        "title": "Moslashtirish",
+        "text": "Buyurtmachi jarayonlariga, moslash hisobotlar va dashborlar"
+      },
+      {
+        "title": "Tez joriy etish",
+        "text": "On-premise yoki bulut, oylar emas, haftalar ichida"
+      }
+    ],
+    "audienceTitle": "Kimlar uchun",
+    "audience": [
+      "O’rta va yirik biznes",
+      "Banklar va sho’ba kompaniyalar",
+      "Davlat tashkilotlari"
+    ]
+  },
+  "bank": {
+    "number": "06",
+    "title": "Bank boshqaruv va nazorat tizimlari",
+    "subtitle": "Bankni ichkaridan boshqaradigan tizimlar",
+    "paragraphs": [
+      "Mijozga ko‘rinadigan ilova — aysbergning uchi. Uning ostida mijozlar bazasi, sotuv jarayoni, segmentatsiya va kredit risklarini boshqaradigan ichki tizimlar turadi. BRB-TECH ana shu qatlamni bank uchun qurgan va kundalik ishlatib kelmoqda: menejerlar yagona mijoz kartasi bilan ishlaydi, rahbariyat real vaqtdagi ma’lumot asosida qaror qabul qiladi, kredit portfeli avtomatik nazorat ostida.",
+      "Bu tizimlarni boshqa banklar va moliya tashkilotlari uchun ularning core banking va ma’lumot omborlariga integratsiya qilgan holda joriy qilamiz."
+    ],
+    "features": [
+      {
+        "title": "Korporativ mijozlar bilan ishlash (CRM)",
+        "text": "Yagona mijoz kartasi, sotuv va kredit arizalari, mijozga xizmat tezligi"
+      },
+      {
+        "title": "Sotuvni kuzatish",
+        "text": "Menejerlar faoliyati, KPI, mijozlar bilan uchrashuvlar nazorati"
+      },
+      {
+        "title": "Mijozlarni segmentatsiya qilish",
+        "text": "Xulq-atvor va moliyaviy ko‘rsatkichlar asosida avtomatik guruhlash, maqsadli takliflar"
+      },
+      {
+        "title": "Kredit risklarini boshqarish",
+        "text": "Portfel monitoringi, erta ogohlantirish signallari, risk skoringi"
+      },
+      {
+        "title": "Boshqaruv analitikasi",
+        "text": "Rahbariyat uchun real vaqtdagi hisobotlar va dashbordlar"
+      }
+    ],
+    "audienceTitle": "Kimlar uchun",
+    "audience": [
+      "Banklar",
+      "Mikromoliya tashkilotlari",
+      "Lizing va sug’urta kompaniyalar"
+    ]
+  },
+  "partners": {
+    "title": "Hamkorlar",
+    "lead": "Kuchli hamkorlik — ishonchli texnologiyalar.",
+    "text": "Biz hamkorlarimizning tajribasi va ishonchini birlashtirib, bugun ishlaydigan va ertangi muvaffaqiyatli kelajakni shakllantiradigan raqamli yechimlarni yaratamiz.",
+    "local": "Mahalliy",
+    "international": "Xalqaro",
+    "certsTitle": "Sertifikatlar",
+    "certsText": "Biz xalqaro sifat va axborot xavfsizligi standartlariga amal qilamiz. Bu professionalligimiz va mijozlarimiz ishonchini tasdiqlaydi.",
+    "certs": [
+      {
+        "title": "ISO 9001",
+        "text": "Sifat menejmenti tizimi"
+      },
+      {
+        "title": "ISO 27001",
+        "text": "Axborot xavfsizligi menejmenti tizimi"
+      },
+      {
+        "title": "IAF",
+        "text": "Sertifikatlashtirish tizimlarini xalqaro tan olish"
+      },
+      {
+        "title": "O’ZAKK",
+        "text": "O‘zbekiston Respublikasining milliy akkreditatsiya tizimi"
+      }
+    ]
+  },
+  "contacts": {
+    "addressLabel": "Manzil",
+    "address": "178A, Muqumi ko‘chasi,\nToshkent, O‘zbekiston",
+    "emailLabel": "Elektron pochta",
+    "email": "main@brb-tech.uz",
+    "phoneLabel": "Biz bilan bog‘laning",
+    "phone": "+998 (55) 513-55-05",
+    "website": "Veb-sayt"
+  }
+}
