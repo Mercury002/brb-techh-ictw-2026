@@ -1,7 +1,6 @@
 <!-- @format -->
 
 <script setup lang="ts">
-import { onMounted } from "vue";
 import LangSwitcher from "./components/LangSwitcher.vue";
 import AboutSection from "./sections/AboutSection.vue";
 import ContactsSection from "./sections/ContactsSection.vue";
