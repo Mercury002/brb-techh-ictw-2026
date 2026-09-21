@@ -1,7 +1,17 @@
+/** @format */
+
 *,
 *::before,
 *::after {
   box-sizing: border-box;
+}
+
+:root {
+  /* the page is already dark: stops Chrome "Auto Dark Mode" / Samsung Internet from recolouring it */
+  color-scheme: dark;
+
+  /* fine noise laid over dark gradients so they don't break into bands on 6/8-bit IPS panels */
+  --dither: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='d'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='1' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0.06 0 0 0 -0.02'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23d)'/%3E%3C/svg%3E");
 }
 
 html,
@@ -12,7 +22,7 @@ body {
 }
 
 body {
-  font-family: 'Unbounded', sans-serif;
+  font-family: "Unbounded", sans-serif;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -135,7 +145,9 @@ main {
 
 /* page background of the "direction" pages in Figma */
 .section-dark {
-  background: linear-gradient(180deg, #000 12.6%, #131313 38.6%, #050505 70.5%, #171717 80.9%, #000 103.5%);
+  background:
+    var(--dither),
+    linear-gradient(180deg, #000 12.6%, #131313 38.6%, #050505 70.5%, #171717 80.9%, #000 103.5%);
 }
 
 /* text gradients used across the design */
@@ -153,6 +165,19 @@ main {
 
 .tx-red {
   background-image: linear-gradient(105deg, #e52c15 28%, #7f180c 67%);
+}
+
+/* old WebViews without text clipping: plain colours instead of invisible text */
+@supports not ((-webkit-background-clip: text) or (background-clip: text)) {
+  .tx-silver {
+    color: #efeded;
+    -webkit-text-fill-color: #efeded;
+  }
+
+  .tx-red {
+    color: #e52c15;
+    -webkit-text-fill-color: #e52c15;
+  }
 }
 
 .display {

@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
     "preview": "vite preview",
-    "figma": "python3 scripts/figma/fetch.py && node scripts/figma/images.mjs dims && python3 scripts/figma/build.py && node scripts/figma/images.mjs"
+    "figma": "python3 scripts/figma/fetch.py && node scripts/figma/images.mjs dims && python3 scripts/figma/build.py && node scripts/figma/images.mjs && node scripts/figma/raster.mjs"
   },
   "dependencies": {
     "vue": "^3.5.42"
@@ -16,6 +16,7 @@
     "@types/node": "^24.13.3",
     "@vitejs/plugin-vue": "^6.0.8",
     "@vue/tsconfig": "^0.9.1",
+    "puppeteer-core": "^25.11.0",
     "sharp": "^0.35.4",
     "typescript": "~6.0.2",
     "vite": "^8.3.0",

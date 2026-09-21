@@ -2,6 +2,7 @@
 import { computed, onBeforeUnmount, onMounted, ref, shallowRef, watch } from 'vue'
 import FigmaNode from './FigmaNode.vue'
 import type { Art } from '../figma/types'
+import rasterNames from '../figma/raster.json'
 
 const props = withDefaults(
   defineProps<{
@@ -13,6 +14,8 @@ const props = withDefaults(
 )
 
 const loaders = import.meta.glob<Art>('../figma/art/*.json', { import: 'default' })
+
+const raster = computed(() => (rasterNames as string[]).includes(props.name))
 
 const art = shallowRef<Art>()
 const el = ref<HTMLElement>()
@@ -57,7 +60,9 @@ const style = computed(() => {
     :style="fit === 'width' && art ? { aspectRatio: `${art.w} / ${art.h}` } : undefined"
     aria-hidden="true"
   >
-    <div v-if="art" class="figma-art-stage" :style="style">
+    <!-- compositions with big blurs are pre-rendered (scripts/figma/raster.mjs): same colours on every GPU -->
+    <img v-if="raster" :src="`/figma/art/${name}.webp`" alt="" class="figma-art-img" decoding="async" />
+    <div v-else-if="art" class="figma-art-stage" :style="style">
       <FigmaNode :node="art.root" />
     </div>
   </div>
@@ -73,6 +78,12 @@ const style = computed(() => {
 .figma-art.fit-cover {
   position: absolute;
   inset: 0;
+}
+
+.figma-art-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .figma-art-stage {

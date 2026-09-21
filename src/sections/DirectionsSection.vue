@@ -97,8 +97,20 @@ const bankIcons = ['user-group-02', 'pie-chart-08', 'analytics-up', 'alert-squar
   width: calc(2153 * var(--u));
   height: calc(2707 * var(--u));
   transform: translate(-50%, -50%);
-  background: radial-gradient(closest-side, rgba(227, 6, 19, 0.55), rgba(227, 6, 19, 0.18) 55%, transparent);
-  filter: blur(calc(200 * var(--u)));
+  /* soft glow as a many-stop gradient (a css blur of this size renders differently on mobile GPUs) */
+  background:
+    var(--dither),
+    radial-gradient(
+      closest-side,
+      rgba(227, 6, 19, 0.5),
+      rgba(227, 6, 19, 0.42) 20%,
+      rgba(227, 6, 19, 0.27) 45%,
+      rgba(227, 6, 19, 0.12) 70%,
+      rgba(227, 6, 19, 0.03) 88%,
+      rgba(227, 6, 19, 0)
+    );
+  -webkit-mask: radial-gradient(closest-side, #000 60%, transparent);
+  mask: radial-gradient(closest-side, #000 60%, transparent);
   pointer-events: none;
 }
 

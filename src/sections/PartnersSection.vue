@@ -78,8 +78,20 @@ const logoStyle = (p: Placed) => ({
   top: calc(41 * var(--u));
   width: calc(1907 * var(--u));
   height: calc(2397 * var(--u));
-  background: radial-gradient(closest-side, rgba(227, 6, 19, 0.6), rgba(227, 6, 19, 0.2) 55%, transparent);
-  filter: blur(calc(200 * var(--u)));
+  /* soft glow as a many-stop gradient (a css blur of this size renders differently on mobile GPUs) */
+  background:
+    var(--dither),
+    radial-gradient(
+      closest-side,
+      rgba(227, 6, 19, 0.55),
+      rgba(227, 6, 19, 0.45) 20%,
+      rgba(227, 6, 19, 0.28) 45%,
+      rgba(227, 6, 19, 0.12) 70%,
+      rgba(227, 6, 19, 0.03) 88%,
+      rgba(227, 6, 19, 0)
+    );
+  -webkit-mask: radial-gradient(closest-side, #000 60%, transparent);
+  mask: radial-gradient(closest-side, #000 60%, transparent);
   pointer-events: none;
 }
 
