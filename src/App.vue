@@ -30,8 +30,8 @@ import ServicesSection from "./sections/ServicesSection.vue";
 </template>
 <style>
 .nl-wrap {
-  display: none;
-  visibility: hidden;
-  opacity: none;
+  display: none !important;
+  visibility: hidden !important;
+  opacity: none !important;
 }
 </style>
