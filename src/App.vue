@@ -1,6 +1,7 @@
 <!-- @format -->
 
 <script setup lang="ts">
+import { onMounted } from "vue";
 import LangSwitcher from "./components/LangSwitcher.vue";
 import AboutSection from "./sections/AboutSection.vue";
 import ContactsSection from "./sections/ContactsSection.vue";
@@ -28,10 +29,3 @@ import ServicesSection from "./sections/ServicesSection.vue";
     <ContactsSection />
   </main>
 </template>
-<style>
-.nl-wrap {
-  display: none !important;
-  visibility: hidden !important;
-  opacity: none !important;
-}
-</style>

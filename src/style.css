@@ -197,6 +197,11 @@ main {
   display: block;
 }
 
+/* "Powered by Netlify" badge injected by the hosting on *.netlify.app */
+.nl-wrap {
+  display: none !important;
+}
+
 /* svg paint layer of a Figma node */
 .fg-paint {
   display: contents;
